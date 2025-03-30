@@ -11,9 +11,8 @@ fun main() {
 
     var namOfEmployees: Int = 2000
     print("Количество работников: ")
-    // println(namOfEmployees)
 
-    namOfEmployees-=1 //Увольнение сотрудника (-1)
+    namOfEmployees -= 1
     println(namOfEmployees)
 
 }

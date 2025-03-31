@@ -11,6 +11,7 @@ fun main() {
 
     hour = 10
     minute = 55
+
     println("Время посадки")
     println(String.format("%02d:%02d", hour, minute))
 
